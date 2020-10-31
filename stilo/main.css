@@ -227,6 +227,7 @@ border-radius: 5px;
     display: flex;
     justify-content: center;
     margin: 15px;
+    align-items: center;
    
 }
 .imgc img{
