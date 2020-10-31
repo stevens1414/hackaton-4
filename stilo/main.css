@@ -139,12 +139,43 @@ margin-bottom: 30px;
 }
 
 .b_blue{
-background-color: turquoise;
+background-color: orange;
 width: 50%;
 height: 15px;
 border-radius: 5px;
 }
+.b_orange{
+    background-color: orange;
+width: 90%;
+height: 15px;
+border-radius: 5px;
+}
 
+.b_ph{
+    background-color: darkcyan;
+    width: 80%;
+    height: 15px;
+    border-radius: 5px;
+}
+.b_purplu{
+    background-color:lightcoral;
+    width: 60%;
+    height: 15px;
+    border-radius: 5px;
+}
+
+.b_java{
+    background-color:lightcoral;
+    width: 20%;
+    height: 15px;
+    border-radius: 5px;
+}
+.b_css{
+    background-color: darkcyan;
+    width: 40%;
+    height: 15px;
+    border-radius: 5px;
+}
 
 /*portafolio*/
 .porfolio{
